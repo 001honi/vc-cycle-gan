@@ -1,5 +1,4 @@
 # Voice conversion by using Generative Adversarial Networks
-GAN Project for Machine Learning for Signal Processing Course
 
 ### Project Aim
 In the project, it is aimed to transfer the trained voice style of a famous person to given input voice.
