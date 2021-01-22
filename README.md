@@ -1,7 +1,7 @@
 # Voice conversion by using CycleGAN  
-### [Project Page](https://mlsp2020.github.io/) follow this site for the result and more.
+### [Project Page](https://001honi.github.io/static/projects/vc-cycle-gan/vc_cycle_gan.html) follow this site for the result and more.
 ### Reference
-Paper:<br>https://mlsp2020.github.io/CycleGAN-VC-1711.11293.pdf <br>
+Paper:<br>https://github.com/001honi/001honi.github.io/blob/master/static/projects/vc-cycle-gan/static/pdf/CycleGAN-VC-1711.11293.pdf<br>
 Implementation:<br>https://github.com/leimao/Voice-Converter-CycleGAN
 <hr>
 
@@ -12,7 +12,7 @@ As referenced above, we highly utilized from @leimao 's work while constructing 
   - 'decay_threshold' parameter is added for monitoring the learning rate reduction over iterations. 
   - In the reference implementation, iteration size dependent on the number of given training audio files not the length; therewithal, learning rate decays with iterations to converge to global minima. However, our dataset and file organization are different and old hyper-parameters result in stop of learning. Therefore, below figure is the plot of new learning rates for both generator and discriminator over growing epochs and iterations.
 <p align="center">
-  <img src="https://github.com/mlsp2020/mlsp-voice-conversion/blob/main/figure/learn_rate.png" />
+  <img src="/figure/learn_rate.png" />
 </p>  
 
 ##### PERFORMANCE
