@@ -1,7 +1,7 @@
 # Voice conversion by using CycleGAN  
-### [Project Page](https://001honi.github.io/static/projects/vc-cycle-gan/vc_cycle_gan.html) follow this site for the result and more.
+### [Project Page](https://001honi.github.io/repos/vc-cycle-gan/report.html) follow this site for the result and more.
 ### Reference
-Paper:<br>https://github.com/001honi/001honi.github.io/blob/master/static/projects/vc-cycle-gan/static/pdf/CycleGAN-VC-1711.11293.pdf<br>
+Paper:<br>[PDF Link](https://github.com/001honi/001honi.github.io/blob/master/repos/vc-cycle-gan/assets/pdf/CycleGAN-VC-1711.11293.pdf)<br>
 Implementation:<br>https://github.com/leimao/Voice-Converter-CycleGAN
 <hr>
 
