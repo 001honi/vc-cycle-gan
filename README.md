@@ -14,9 +14,9 @@
   
   <p align="center">
   Reference <br>
-  <a href="https://001honi.github.io/repos/vc-cycle-gan/report.html">Paper</a>
+  <a href="https://github.com/001honi/001honi.github.io/blob/master/repos/vc-cycle-gan/assets/pdf/CycleGAN-VC-1711.11293.pdf">Paper</a>
   ·
-  <a href="https://github.com/001honi/001honi.github.io/blob/master/repos/vc-cycle-gan/assets/pdf/vc-cycle-gan-report.pdf">Implementation</a>
+  <a href="https://github.com/leimao/Voice-Converter-CycleGAN">Implementation</a>
   </p>
 </p>
 
