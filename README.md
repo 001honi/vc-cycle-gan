@@ -1,9 +1,26 @@
-# Voice conversion by using CycleGAN  
-### [Project Page](https://001honi.github.io/repos/vc-cycle-gan/report.html) follow this site for the result and more.
-### Reference
-Paper:<br>[PDF Link](https://github.com/001honi/001honi.github.io/blob/master/repos/vc-cycle-gan/assets/pdf/CycleGAN-VC-1711.11293.pdf)<br>
-Implementation:<br>https://github.com/leimao/Voice-Converter-CycleGAN
-<hr>
+<br>
+<p align="center">
+  <h1 align="center">Voice Conversion by using CycleGAN</h1>
+  
+ 
+  <p align="center">
+  MLSP Term Project, ITU <br>
+  <a href="https://001honi.github.io/repos/vc-cycle-gan/report.html"><b>Project Page</b></a>
+  ·
+  <a href="https://github.com/001honi/001honi.github.io/blob/master/repos/vc-cycle-gan/assets/pdf/vc-cycle-gan-report.pdf">Report</a>
+  ·
+  <a href="https://github.com/001honi/001honi.github.io/blob/master/repos/vc-cycle-gan/assets/pdf/vc-cycle-gan-presentation.pdf">Presentation</a>
+  </p>
+  
+  <p align="center">
+  Reference <br>
+  <a href="https://001honi.github.io/repos/vc-cycle-gan/report.html">Paper</a>
+  ·
+  <a href="https://github.com/001honi/001honi.github.io/blob/master/repos/vc-cycle-gan/assets/pdf/vc-cycle-gan-report.pdf">Implementation</a>
+  </p>
+</p>
+
+
 
 ### Changelog
 As referenced above, we highly utilized from @leimao 's work while constructing this project. Google’s Colaboratory is used to train our model due to lack of high-performance GPUs. Some updates are required to reduce the time-consuming process as a main reason. The training for one model took approximately 5.5 hours after these updates with NVIDIA Tesla T4 GPUs. Two models trained for female-to-female and male-to-female voice conversion. Here is the detailed updates:
