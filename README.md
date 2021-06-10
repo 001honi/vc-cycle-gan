@@ -4,7 +4,7 @@
   
  
   <p align="center">
-  MLSP Term Project, ITU <br>
+  MLSP Undergraduate Term Project, ITU <br>
   <a href="https://001honi.github.io/repos/vc-cycle-gan/report.html"><b>Project Page</b></a>
   ·
   <a href="https://github.com/001honi/001honi.github.io/blob/master/repos/vc-cycle-gan/assets/pdf/vc-cycle-gan-report.pdf">Report</a>
